@@ -100,11 +100,11 @@ p {
 }
 
 /* Drop down links*/
-.dropbtn {
   /*float: left;
   text-decoration: none;  
   text-align: center;
   line-height: 25px; */
+.dropbtn {
   background: none;
   color: black;
   padding: 12px;
