@@ -54,7 +54,8 @@ p {
 
 #navbar {
   /*overflow: hidden;*/
-  background-color: #f1f1f135;
+  background-color: #f1f1f139;
+  backdrop-filter: blur(2px);
   padding: 50px 10px; /* Large padding which will shrink on scroll (using JS) */
   transition: 0.4s; /* Adds a transition effect when the padding is decreased */
   position: fixed; /* Sticky/fixed navbar */
