@@ -34,7 +34,6 @@ body {
   background-color: rgba(255, 255, 248, 0.812);
 }
 
-
 p {
   color : #eee;
   text-align: left;
@@ -208,11 +207,20 @@ input[type=submit]:hover {
 }
 
 .container-contact {
-  border-radius: 5px;
+  position: relative;
+  border-radius: 40px;
   background-color: #f2f2f2;
-  padding: 20px;
+  padding: 50px;
   padding-top: 100px;
-  margin-top: 150px;
+  margin-bottom: 100px;
+  margin-top: 250px;
+  margin-left: 700px;
+  margin-right: 150px;
+}
+
+img.Pato{
+  position: relative;
+  margin-top: 100px;
 }
 
 
