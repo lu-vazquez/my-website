@@ -39,11 +39,12 @@ p {
   text-align: left;
   margin-top: 15px;
   margin-bottom: 10px;
-  font-size: 1.1em;
+  font-size: 1em;
+  font-family: Courier, monospace;
 }
 
 .body-container {
-  color: white;
+  color: #ccc;
   padding-top: 200px;
   padding-left: 10px;
   margin-top:150px;
@@ -57,7 +58,8 @@ a{
 .home-text{
 	right: 0;
   text-align: right;
-  padding: 10px;
+  padding: 15px;
+  font-size: 22px;
 }
 
 .img-text {
@@ -77,12 +79,29 @@ a{
 }
 
 .body-container2 {
+  color: black;
   padding-left: 40%;
+  padding-right: 80px;
   padding-top: 50px;
   padding-bottom: 30%;
-  font-size:30p;
-
+  font-size:30px;
+  font-family: monospace;
 }
+
+h2 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+.digital-art{
+  color: black;
+}
+
+.story-text{
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
 .center{
     display: block;
     margin-left: auto;
@@ -396,9 +415,7 @@ h1 {
     font-family: Arial;
 }
 
-h2 {
-    text-align: center;
-}
+
 
 h3 {
     font-family: Georgia;
